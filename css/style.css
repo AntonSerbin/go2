@@ -1,12 +1,12 @@
-h2 {width: 100px; /* Ширина слоя */
-    margin: 1px; /* Значение отступов */
-    padding: 2px; /* Поля вокруг текста */
-    background: red; /* Цвет фона */
+h2 {width: 100px; 
+    margin: 1px; 
+    padding: 2px; 
+    background: red; 
     color:white;}
 
 
-p {width: 200px; /* Ширина слоя */
-    background: #1D1fD6; /* Цвет фона */
+p {width: 200px; 
+    background: #1D1fD6; 
     padding: 0px 2px 20px 0px;
    }
 
@@ -45,11 +45,11 @@ padding: 20px;}
 
 .greenlink{ color:green;}
 
-.blue{color:blue;}
+.blue{color:blue;} 
 .red {color:red;}
 
 #task5{width:  400px;
-	height: 150px;
+	height: 200px;
 	background: #d6d7be;
 } 
 
@@ -63,7 +63,7 @@ padding: 20px;}
         color:#000000;
         margin: 0px;
         padding: 0px; 
-        background: #d6d7be; /*почему автоматически не перебивается id="task5"??*/
+        background: #d6d7be; 
         margin: 10px 0px;
 }
 #head3  {font-size: 20px;
@@ -71,4 +71,6 @@ padding: 20px;}
      margin: 10px 0px;}
 
 #textinside {background: #d6d7be;
-	width: 400px;}
+	width: 400px;
+	margin: 0px; 
+	padding: 0px;}
