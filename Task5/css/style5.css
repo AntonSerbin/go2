@@ -1,0 +1,29 @@
+.title1 {background: none;
+font-size: 20px;
+width: 100%;
+padding: 0px; margin: 2px;}
+
+.greenlink{ color:green;}
+
+#task5{width:  400px;
+	height: 200px;
+	background: #d6d7be;
+	margin: 20px;
+} 
+
+#head1 {font-size: 30px;
+        color:#532601;
+        font-family:sans-serif;
+        margin: 10px 0px;}
+
+#head2 {font-size: 25px;
+	    width: 400px;
+        color:#000000;
+        margin: 0px;
+        padding: 0px; 
+        background: #d6d7be; 
+        margin: 10px 0px;
+}
+#head3  {font-size: 20px;
+         color:#bf9043;
+     margin: 10px 0px;}

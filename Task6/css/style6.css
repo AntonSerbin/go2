@@ -1,0 +1,19 @@
+sub,sup {font-style: italic;}
+
+.title1 {background: none;
+font-size: 20px;
+width: 100%;
+padding: 0px; margin: 2px;}
+
+.task6{width: 545px;
+height: 90px;
+border: 2px solid black;
+margin: 30px 0 0 20px;
+padding: 0;
+}
+
+
+#textinside {background: #d6d7be;
+	width: 400px;
+	margin: 0px; 
+	padding: 0px;}

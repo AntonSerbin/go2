@@ -1,0 +1,15 @@
+sub {color:blue;
+font-style: normal;} 
+sup {color:red;
+font-style: normal;}
+
+.title1 {background: none;
+font-size: 20px;
+width: 100%;
+padding: 0px; margin: 2px;}
+
+.task7{width: 500px;
+height: 120px;
+border: 2px solid black;
+margin: 0 0 0 20px;
+}

@@ -1,0 +1,14 @@
+p {height: 17px}
+
+.one {background: red;
+   width: 40px;
+  padding: 0px 2px 15px 0px;}
+
+.two {background: orange;
+  width: 80px;
+  padding: 0px 2px 15px 0px;}
+
+.three {background: #4600ff;
+   width: 130px;
+  padding: 0px 2px 15px 0px;}
+
